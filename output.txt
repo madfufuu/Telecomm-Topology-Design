@@ -1,0 +1,104 @@
+15
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.0012718280000000304 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  1311.54
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  0.0927087289999946 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  631.03
+
+30
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.0016518610000000322 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  8503.37
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  2.6924316919999995 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  1070.12
+
+
+45
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.002824922000000063 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  21305.49
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  17.434462222 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  1398.11
+
+
+60
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.003957891000000102 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  35730.94
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  84.290332521 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  1941.55
+
+
+75
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.007559786000000068 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  66104.42
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  277.392941234 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  2527.48
+
+100
+--------------- Greedy 3 Tree Heuristic stats ---------------
+
+Execution time:  0.008493644999999939 seconds.
+Is network connected:  True
+Is Network connectivity 3: True
+Network diameter:  3
+Total network cost:  106972.69
+
+-------------- Descending Tree Heuristic stats --------------
+
+Execution time:  1424.4711412030001 seconds.
+Is network connected:  True
+Is Network connectivity 3 True
+Network diameter:  4
+Total network cost:  3149.58
