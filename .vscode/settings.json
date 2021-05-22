@@ -1,8 +1,0 @@
-{
-	"python.linting.pycodestyleEnabled": true,
-	"python.linting.pylintArgs": [
-        "--rcfile=pylintrc"
-    ],
-	"python.linting.pylintEnabled": true,
-	"python.linting.enabled": true
-}
